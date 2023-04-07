@@ -1,5 +1,5 @@
 body{background-color:rgb(0, 191, 255)}
- table,tr,td,th{border: 2px black}
+ table,tr,td,th{border: 2px black solid}
   img{width:auto;height: 50px;
   border: solid 2px orange;
   margin:auto;}
