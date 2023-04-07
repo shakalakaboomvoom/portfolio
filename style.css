@@ -1,0 +1,17 @@
+body{background-color:rgb(0, 191, 255)}
+ table,tr,td,th{border: 2px black}
+  img{width:auto;height: 50px;
+  border: solid 2px orange;
+  margin:auto;}
+  .media{margin: 25px;margin-bottom: 40px ; border: 1px solid rgb(60, 113, 167); background-image:radial-gradient(orange,blue); box-shadow :blue 2px 5px;border-radius: 10%;
+    padding: 12px; float: left;
+    align-content: centre; width:25%; height:auto;}
+    .media img{width:95%;height:80%;border-radius: 10%;margin:12px 2px 2px}
+    .media p{padding:5px; text-align: centre; color:aqua; font-size:20px}
+    video{width: 95%; height:190px; border: rgb(218,126,13)3px dotted;}
+    audio{width:95%; height:50px;}
+ nav{float: right;margin-top:10px;font-size:24px;}
+ nav a{padding: 20px 20px;text-decoration: none;}
+ .inline{display:inline-block;}
+ .header{box-shadow:12px 0px 10px gold;}
+#logo h5{float: right;margin: 30px;font: size 20px;}
